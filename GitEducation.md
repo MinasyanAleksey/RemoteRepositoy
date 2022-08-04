@@ -1,1 +1,1 @@
-# Let start education
+# Instruction for work with Git
